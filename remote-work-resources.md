@@ -9,3 +9,4 @@ https://open.buffer.com/trust-remote-team/
 https://info.trello.com/embrace-remote-work-ultimate-guide
 https://about.gitlab.com/company/culture/all-remote/resources/
 https://zapier.com/learn/remote-work/
+https://adityamukerjee.net/2017/10/03/remote-work-2-years-in/
