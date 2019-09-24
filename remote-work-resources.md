@@ -1,3 +1,8 @@
+---
+layout: page
+title: Remote work resources
+permalink: /remote-resources/
+---
 https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/
 https://open.buffer.com/remote-work-lessons/
 http://theoatmeal.com/comics/working_home
