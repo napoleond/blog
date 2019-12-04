@@ -16,3 +16,4 @@ permalink: /remote-resources/
  - https://zapier.com/learn/remote-work/
  - https://adityamukerjee.net/2017/10/03/remote-work-2-years-in/
  - https://t.co/G9xppxExjz?amp=1
+ - https://increment.com/teams/a-guide-to-distributed-teams/
