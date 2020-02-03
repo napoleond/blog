@@ -5,7 +5,6 @@ date:   2020-02-03 09:53:27 -0500
 categories: []
 tags: []
 ---
-# Toward my own memex
 Vannevar Bush famously described the [memex](https://en.wikipedia.org/wiki/Memex) as "an enlarged intimate supplement to one's memory." And today, even though we've realized hypertext and a plethora of other advancements which Bush could only dream of, Bush' dream of a memex still eludes us.
 
 What we have instead is absurd amounts of storage space, and a compulsion to hoard any data we can amass into it. I am as guilty as anyone else: piles of used notebooks, never to be read from again. Thousands of entries in Evernote, Workflowy, Apple Notes, Google Docs, and any other digital dumping ground the universe provides. Blog posts, lost to the sands of time, or maybe only to the [Internet Archive](https://archive.org/web/). The point is, we've all made a habit of writing down our thoughts, but--at least in my case--that writing has not resulted in significantly improved accretion of knowledge.
