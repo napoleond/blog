@@ -6,6 +6,10 @@ categories: []
 tags: []
 ---
 
+*I'm contemplating some follow-ups to this post, but want to gauge interest first. If you'd like to read more about data practices for scrappy startups, please fill out this (really short!)* [*Google Form*](https://forms.gle/6PtpnLDtxuctU9Py7)*. Thank you!*
+
+---
+
 Even though the [scrappy startup I'm most enamored with right now](https://stripe.com/) is (ahem) bigger than this, the 1-, 2- and 3-person startups of the world hold a special place in my heart. There's something intoxicating about small groups of people creating something from nothing.
 
 By the time startups reach the point where the "scale-up" happens, they usually have some aspect of a "data practice" in place. There will be an engineering side (either dedicated data engineers or application/infrastructure engineers who are "borrowed" periodically to build and maintain the data systems) and an analyst side (again, either dedicated data scientists or some set of people who are comfortable using SQL to answer business questions). Tiny startups typically don't have this, primarily for two reasons:
@@ -33,4 +37,6 @@ The very rough recipe is as-follows:
 
 This approach costs approximately 1 engineer-week to set up, with an ongoing monthly cost in the low hundreds of dollars (depending on storage size and usage). The general architecture will scale from gigabytes all the way up to petabytes of data if you need it to. Best of all, once it's in place, this system will change the question from "How can I measure this?" to "What should I measure?" which is a much more powerful question.
 
-*I'm contemplating some follow-ups to this post, but want to gauge interest first. If you'd like to read more about data practices for scrappy startups, please fill out this (really short!)* [*Google Form*](https://forms.gle/6PtpnLDtxuctU9Py7)*. Thank you!*
+---
+
+_**I'm contemplating some follow-ups to this post, but want to gauge interest first. If you'd like to read more about data practices for scrappy startups, please fill out this (really short!) [Google Form](https://forms.gle/6PtpnLDtxuctU9Py7). Thank you!**_
