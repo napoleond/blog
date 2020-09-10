@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Data practices for scrappy startups"
-date:   2020-09-02 12:13:00 -0500
+date:   2020-08-02 12:13:00 -0500
 categories: []
 tags: []
 ---
 
-*I'm contemplating some follow-ups to this post, but want to gauge interest first. If you'd like to read more about data practices for scrappy startups, please fill out this (really short!)* [*Google Form*](https://forms.gle/6PtpnLDtxuctU9Py7)*. Thank you!*
+*After writing this post, I was inspired to write more about the topic and spun up a new site around it. Head over to [www.tabbydata.com](https://www.tabbydata.com) to learn more!*
 
 ---
 
@@ -37,10 +37,3 @@ The very rough recipe is as-follows:
 5.  Now you need a convenient way to query Athena and visualize the results. The options at this point are endless (it's "just SQL" after all) and switching costs are low, so pick anything you like. [Redash](https://redash.io/) is a nice open-source option which you could either host yourself or have them host.
 
 This approach costs approximately 1 engineer-week to set up, with an ongoing monthly cost in the low hundreds of dollars (depending on storage size and usage). The general architecture will scale from gigabytes all the way up to petabytes of data if you need it to. Best of all, once it's in place, this system will change the question from "How can I measure this?" to "What should I measure?" which is a much more powerful question.
-
-<br/>
-
----
-
-<br/>
-_**I'm contemplating some follow-ups to this post, but want to gauge interest first. If you'd like to read more about data practices for scrappy startups, please fill out this (really short!) [Google Form](https://forms.gle/6PtpnLDtxuctU9Py7). Thank you!**_
