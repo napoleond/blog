@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data practices for scrappy startups"
-date:   2020-09-02 12:13:00 -0500 # this was actually written on 08-02 but have to leave it this way now to avoid breaking the URL
+date:   2020-09-02 12:13:00 -0500
 categories: []
 tags: []
 ---
