@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hey! Thanks for checking out my blog. I'm a staff-level software engineer who
   works remotely at Stripe. Prior to that, I owned a small local business
   and worked as the CTO in a 30-person startup.
-  Outside of work, I enjoy playing music and brewing beer.
+  Outside of my day job, I enjoy playing music, brewing beer, and building [Tabby Data](https://www.tabbydata.com).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidnoelromas
